@@ -1,29 +1,37 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c5cff,100:00d1b2&height=200&section=header&text=Alishba%20Akhtar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=22&descAlignY=60" width="100%" />
+<img src="https://raw.githubusercontent.com/akhtaralishba371-a11y/akhtaralishba371-a11y/main/banner.svg" alt="Alishba Akhtar - Full Stack Developer" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7C5CFF&center=true&vCenter=true&width=640&lines=React+%26+Laravel+Web+Applications;Custom+WordPress+Plugin+Development;Ubuntu+Server+Setup+%26+Deployment;Building+fast%2C+secure+websites+for+real+clients" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00D1B2&center=true&vCenter=true&width=700&lines=Building+scalable+React+%26+Laravel+applications;Crafting+custom+WordPress+plugins;Deploying+secure+Ubuntu+servers;Turning+business+ideas+into+fast+websites" alt="Typing SVG" /></a>
 
-<br/>
+<br/><br/>
 
-<a href="mailto:Alishbaakhtar274@gmail.com"><img src="https://img.shields.io/badge/Email-Alishbaakhtar274%40gmail.com-7c5cff?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Location-Pakistan-00d1b2?style=for-the-badge&logo=googlemaps&logoColor=white" />
-<img src="https://img.shields.io/badge/Open%20to-Freelance%20%26%20Full--time-success?style=for-the-badge" />
+<a href="mailto:Alishbaakhtar274@gmail.com"><img src="https://img.shields.io/badge/Email_Me-7c5cff?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Based_in-Pakistan-00d1b2?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Open_to_work-22c55e?style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=akhtaralishba371-a11y&label=Profile+views&color=7c5cff&style=for-the-badge" />
 
 </div>
 
----
+<br/>
 
-## 👩‍💻 About me
+## ⚡ About me
 
-I'm a **full stack developer** who builds web applications with **React and Laravel**, creates **custom WordPress plugins**, and deploys everything on secure **Ubuntu servers**. I work with clients in Pakistan, the UK, the UAE and Thailand across education, manufacturing, travel, food and retail.
+I build **web applications, WordPress plugins and server infrastructure** end to end: from the React interface to the Laravel API to the Ubuntu server it runs on. I've delivered websites for clients across **Pakistan, the UK, the UAE and Thailand** in education, manufacturing, travel, food and retail.
 
-- ⚛️ Building scalable front ends with **React** and robust back ends with **Laravel**
-- 🔌 Writing **custom WordPress plugins** around real business needs
-- 🖥️ Managing **Ubuntu VPS**: Nginx, SSL, security hardening, backups
-- 🚀 Focused on performance, clean code and maintainable projects
+```js
+const alishba = {
+  role: "Full Stack Developer",
+  frontend: ["React", "JavaScript", "TypeScript", "HTML/CSS"],
+  backend: ["Laravel", "PHP", "MySQL"],
+  cms: ["WordPress", "Custom Plugins", "Elementor"],
+  devops: ["Ubuntu VPS", "Nginx", "SSL", "Git"],
+  focus: "performance, clean code, maintainable projects",
+  openToWork: true,
+};
+```
 
----
+<br/>
 
 ## 🛠️ Tech stack
 
@@ -33,22 +41,46 @@ I'm a **full stack developer** who builds web applications with **React and Lara
 
 </div>
 
----
+<br/>
 
-## 💼 What I can build for you
+## 🚀 What I build
 
-| | Service | Details |
-|---|---|---|
-| ⚛️ | **Full stack web apps** | React front ends, Laravel APIs, authentication, dashboards, databases |
-| 🔌 | **WordPress & custom plugins** | Themes, Elementor builds, plugins tailored to your workflow |
-| 🖥️ | **Ubuntu server & deployment** | VPS setup, Nginx/Apache, SSL, security, backups |
-| 🚀 | **Performance & SEO** | Fast load times, clean structure, search-ready pages |
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### ⚛️ Full stack web apps
+React front ends, Laravel APIs, authentication, dashboards and databases.
+
+</td>
+<td width="50%" valign="top">
+
+### 🔌 WordPress & custom plugins
+Themes, Elementor builds and plugins tailored to your business workflow.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🖥️ Ubuntu server & deployment
+VPS setup, Nginx/Apache, SSL, security hardening and backups.
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Performance & SEO
+Fast load times, clean structure and search-ready pages.
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## 🌐 Live projects
 
-| Project | What it is | Live |
+| Project | What it is | Link |
 |---|---|---|
 | **NYT Solvers** | 25+ free word-game solvers and daily hints | [nytsolvers.com](https://nytsolvers.com) |
 | **My Tutor Quest** | Marketplace connecting students with verified tutors | [mytutorquest.com](https://mytutorquest.com) |
@@ -59,35 +91,33 @@ I'm a **full stack developer** who builds web applications with **React and Lara
 | **Innovative Chemicals** | Chemicals supplier, B2B | [innovativechemicals.pk](https://innovativechemicals.pk) |
 | **Digital Genei** | Digital agency website | [digitalgenei.net](https://digitalgenei.net) |
 
----
+<br/>
 
 ## 📂 Featured repositories
 
-- [**attendance-system**](https://github.com/akhtaralishba371-a11y/attendance-system): Laravel attendance management system
-- [**ADHA-system**](https://github.com/akhtaralishba371-a11y/ADHA-system): PHP management system
-- [**digital_genei_workspace**](https://github.com/akhtaralishba371-a11y/digital_genei_workspace): TypeScript workspace project
-- [**currentcravings**](https://github.com/akhtaralishba371-a11y/currentcravings), [**cew-defense**](https://github.com/akhtaralishba371-a11y/cew-defense), [**dromore**](https://github.com/akhtaralishba371-a11y/dromore): client websites
-
----
-
-## 📊 Languages I use
-
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhtaralishba371-a11y&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
+<a href="https://github.com/akhtaralishba371-a11y/attendance-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=akhtaralishba371-a11y&repo=attendance-system&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/akhtaralishba371-a11y/ADHA-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=akhtaralishba371-a11y&repo=ADHA-system&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/akhtaralishba371-a11y/digital_genei_workspace"><img src="https://github-readme-stats.vercel.app/api/pin/?username=akhtaralishba371-a11y&repo=digital_genei_workspace&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/akhtaralishba371-a11y/currentcravings"><img src="https://github-readme-stats.vercel.app/api/pin/?username=akhtaralishba371-a11y&repo=currentcravings&theme=tokyonight&hide_border=true" /></a>
 </div>
 
----
+<br/>
+
+## 📊 Languages
+
+<div align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhtaralishba371-a11y&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</div>
+
+<br/>
 
 <div align="center">
 
 ### 📫 Let's build something together
 
-Have a project or role in mind? **[Alishbaakhtar274@gmail.com](mailto:Alishbaakhtar274@gmail.com)**
+Have a project or a role in mind? **[Alishbaakhtar274@gmail.com](mailto:Alishbaakhtar274@gmail.com)**
 
-<img src="https://komarev.com/ghpvc/?username=akhtaralishba371-a11y&label=Profile+views&color=7c5cff&style=flat" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d1b2,100:7c5cff&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d1b2,100:7c5cff&height=110&section=footer" width="100%" />
 
 </div>
